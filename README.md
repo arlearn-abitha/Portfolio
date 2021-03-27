@@ -16,29 +16,32 @@ I bring with me 5 years and 7 months of interdisciplinary work experience such a
 
 ## Projects
 
+
+<img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/Used%20car%20price%20prediction%20-%20krish.png"> **[Used Cars Price Prediction - India](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/End%20to%20end%20data%20science%20project%20-%20Used%20car%20price%20prediction)**
+
+This project is an end to end data science project. The data used is from kaggle dataset of cardekho. In this project, the data is cleaned, preprocessed and visualized. Random Forest regression model is used to train the model. Then it is deployed using Flask. 
+
+#
+
+
 <img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/Predict%20Electric%20consumption.png"> **[Predict Electricity consumption of a building using Scikit-learn](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/K-Neighbor%20Regressor%20algorithm%20to%20predict%20electricity%20consumption)**
 
 This project has helped me in gaining insights with time-series data generated from smart IoT devices, analyze the weather influence on electricity consumption, and apply a regression model using Scikit-learn to predict the electricity consumption of a building. 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/Used%20cars%20price%20predict.png"> **[Used Cars Price Prediction](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/XGBoost_101_Used_cars_price_prediction)**
+<img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/Used%20cars%20price%20predict.png"> **[Used Cars Price Prediction - America](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/XGBoost_101_Used_cars_price_prediction)**
 
-In this project, we used 3 Machine Learning algorithms namely Multiple Linear Regression, Random Forest Regression, and XG-Boost to predict used cars prices. The application of this project can be used by car dealerships to predict used car prices and understand the key factors that contribute to used car prices.
+In this project, three Machine Learning algorithms namely Multiple Linear Regression, Random Forest Regression, and XG-Boost were used to predict used cars prices respectively. The application of this project can be used by car dealerships/individuals to predict used car prices and understand the key factors that contribute to used car prices.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/Cervical-Cancer.jpg"> **[Cervical Cancer Risk Prediction](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/XGBoost_algorithm_to_predict_Cervical_cancer_risk)**
  
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+In this project, Data is pre-processed, cleaned and visualized, followed by training XG-Boost classifier to predict whether a person has a risk of having cervical cancer. Cervical cancer kills about 4,000 women in the U.S. and about 300,000 women worldwide every year. 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
-
-In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
-
-#
 <br />
  
 ## Core Competencies
