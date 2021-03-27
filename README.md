@@ -37,13 +37,13 @@ In this project, Data is pre-processed, cleaned and visualized, followed by trai
  
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Time Series Analysis, Statistics, A/B Testing and Experimentation Design
+- **Methodologies**: Data cleaning, Exploratory Data Analysis, Machine Learning, Time Series Analysis, Statistics, A/B Testing and Experimentation Design
 - **Languages**: Python
 - **Python libraries hands on experience**: Numpy, Pandas, Scikit-learn, Requests
 - **Tools**: Git, MS Excel
 - **Data Visualization**: Tableau, Seaborn, Plotly, Matplotlib & MS PPT
 - **Deploying libraries** - Streamlit and Flask
-- **Database** - SQL
+- **RDBMS** - SQL
 - **Multi-lingual** : (Kannada, English & Hindi - Read, Write & Speak), (Telugu - Read & Speak), (Bengali - Speak)
 
 ## Course Certificates
