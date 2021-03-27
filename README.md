@@ -1,5 +1,5 @@
 # Data Science Portfolio - Abitha Ravishankar
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my  skills, projects, certificates and my experience. It is updated on the regular basis.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains details of my  skills, projects, certificates and my experience. It is updated on the regular basis.
 
 - **Email**: [abitha.ravishankar@gmail.com](abitha.ravishankar@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/abitha-ravishankar-13277072/](https://www.linkedin.com/in/abitha-ravishankar-13277072/)
