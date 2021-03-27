@@ -5,16 +5,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn**: [https://www.linkedin.com/in/abitha-ravishankar-13277072/](https://www.linkedin.com/in/abitha-ravishankar-13277072/)
 - **Blog**: [https://arlearnabitha.blogspot.com/](https://arlearnabitha.blogspot.com/)
 
-## Experience:
-
-I bring with me 5 years and 7 months of interdisciplinary work experience such as:
-1. Being a Cofounder to a tech start-up for 2+ years which helped me in taking initiatives and being accountable for my actions in terms of Leadership, team work etc.
-2. Being a Business Development Manager & Scientific Business Manager at VPKW and Privi LS LLP for 2+ years in Pharma/ Life Science industry doing B2B sales has helped me nurture my soft skills such as persuasive communication technique, collaboration, follow up, problem solving, being punctual, negotiation, and persuasive approach for win-win situation etc. 
-3. Being a Technical Support Associate at IBM for 11 months has given me exposure to work with US based customers. 
-
-
-
-## Projects
+ ## Projects
 
 
 <img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/Used%20car%20price%20prediction%20-%20krish.png"> **[Used Cars Price Prediction - India](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/End%20to%20end%20data%20science%20project%20-%20Used%20car%20price%20prediction)**
@@ -75,3 +66,10 @@ In this project, Data is pre-processed, cleaned and visualized, followed by trai
 - [Personal Desktop Notifier in Python: Covid-19 notifications](https://github.com/arlearn-abitha/Portfolio/blob/master/Certificates/Coursera%20S6YJJLVKP3A7.pdf)
 - [Predict Electricity consumption in Python using Scikit learn](https://github.com/arlearn-abitha/Portfolio/blob/master/Certificates/Coursera%209GEX2W7VC858.pdf)
 - [Visualizing citibike trips with Tableau ](https://github.com/arlearn-abitha/Portfolio/blob/master/Certificates/Coursera%20AJFLPQXVCULJ.pdf)
+
+## Experience:
+
+I bring with me 5 years and 7 months of interdisciplinary work experience such as:
+1. Being a Cofounder to a tech start-up for 2+ years which helped me in taking initiatives and being accountable for my actions in terms of Leadership, team work etc.
+2. Being a Business Development Manager & Scientific Business Manager at VPKW and Privi LS LLP for 2+ years in Pharma/ Life Science industry doing B2B sales has helped me nurture my soft skills such as persuasive communication technique, collaboration, follow up, problem solving, being punctual, negotiation, and persuasive approach for win-win situation etc. 
+3. Being a Technical Support Associate at IBM for 11 months has given me exposure to work with US based customers.
