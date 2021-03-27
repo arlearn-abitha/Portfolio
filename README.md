@@ -67,7 +67,7 @@ In this project, Data is pre-processed, cleaned and visualized, followed by trai
 - [Predict Electricity consumption in Python using Scikit learn](https://github.com/arlearn-abitha/Portfolio/blob/master/Certificates/Coursera%209GEX2W7VC858.pdf)
 - [Visualizing citibike trips with Tableau ](https://github.com/arlearn-abitha/Portfolio/blob/master/Certificates/Coursera%20AJFLPQXVCULJ.pdf)
 
-## Experience:
+## Interdisciplinary Experience:
 
 I bring with me 5 years and 7 months of interdisciplinary work experience such as:
 1. Being a Cofounder to a tech start-up for 2+ years which helped me in taking initiatives and being accountable for my actions in terms of Leadership, team work etc.
