@@ -18,13 +18,13 @@ I bring with me 5 years and 7 months of interdisciplinary work experience such a
 
 <img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/Predict%20Electric%20consumption.png"> **[Predict Electricity consumption of a building using Scikit-learn](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/K-Neighbor%20Regressor%20algorithm%20to%20predict%20electricity%20consumption)**
 
-This project has helped me gaining insights with time-series data generated from smart IoT devices, analyze the weather influence on electricity consumption, and apply a regression model using Scikit-learn to predict the electricity consumption of a building. 
+This project has helped me in gaining insights with time-series data generated from smart IoT devices, analyze the weather influence on electricity consumption, and apply a regression model using Scikit-learn to predict the electricity consumption of a building. 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/Used%20cars%20price%20predict.png"> **[Used Cars Price Prediction](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/XGBoost_101_Used_cars_price_prediction)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+In this project, we used 3 Machine Learning algorithms namely Multiple Linear Regression, Random Forest Regression, and XG-Boost to predict used cars prices. The application of this project can be used by car dealerships to predict used car prices and understand the key factors that contribute to used car prices.
 
 #
 
