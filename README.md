@@ -35,6 +35,16 @@ In this project, Data is pre-processed, cleaned and visualized, followed by trai
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/images/fulls/05.png"> **[Data Analysis (Basic Statistics in Python - Correlation & T-tests)](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/Data%20Analysis%20Mini%20projects/Data%20Analysis%20based%20on%20(corr%20%26%20t-test))**
+ 
+In this Data Analysis project, the dataset is obtained from world bank under the category science and technology.
+1. Then cleaning of dataset started with removal of missing data and unnecessary columns from our dataset.
+2. Next, proceeded towards Exploratory data analysis and used boxplots to detect outliers. 
+3. Later, examined the relationships between different features using correlation and scatter plots.
+4. Finally concluded the project by performing t-tests. 
+
+#
+
 <br />
  
 ## Core Competencies
