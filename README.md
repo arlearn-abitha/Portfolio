@@ -41,7 +41,7 @@ In this Data Analysis project, the dataset is obtained from world bank under the
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/images/fulls/06.png"> **[Python notifier)](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/Python%20personal%20notification%20projects)**
+<img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/images/fulls/06.png"> **[Python notifier](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/Python%20personal%20notification%20projects)**
  
 In this project, I have created 2 personal notifiers.
 Personal Breaks Notifier: I wanted myself a reminder to take a break every once an hour for 15 minutes. So created this application.</br>
