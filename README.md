@@ -52,7 +52,7 @@ COVID-19 notifier: This app fetches the covid cases data from heroku API, and th
 
 <img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/08.PNG"> **[Stroke Prediction Project](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/Stroke%20Prediction%20Project)**
  
-In this project, after doing data analysis, I got the following inferences.</br>
+In this project, after doing data analysis, I got the following inferences.
 1. Stroke is occuring in people who are 30+ years old.
 2. Those who have avg_glucose_level less than 120 have more chance of getting a stroke 
 3. Those who have avg_glucose_level more than 150 have high chance of getting a stroke.
