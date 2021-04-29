@@ -26,7 +26,9 @@ This project is an end to end data science project. The data used is from kaggle
 
 <img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/Predict%20Electric%20consumption.png"> **[Predict Electricity consumption of a building using Scikit-learn](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/K-Neighbor%20Regressor%20algorithm%20to%20predict%20electricity%20consumption)**
 
-This project has helped me in gaining insights with time-series data generated from smart IoT devices, analyze the weather influence on electricity consumption, and apply a regression model using Scikit-learn to predict the electricity consumption of a building. 
+This project has helped me in gaining insights with time-series data generated from smart IoT devices, analyze the weather influence on electricity consumption, and apply a regression model using Scikit-learn to predict the electricity consumption of a building.  Another inference obtained while doing this project are, that, 
+1. The electricity consumption of a building is more when it is Summer and Winter.
+2. The electricity consumption is low when it is Before the onset of Winter and before the Onset of Summer.
 
 #
 
