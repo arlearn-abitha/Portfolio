@@ -82,6 +82,8 @@ In this project, after doing data analysis, I got the following inferences.
 
 ## Course Certificates
 
+- [Machine Learning & AI Foundations: Predictive Modeling Strategy at Scale (Apr 2021)](https://github.com/arlearn-abitha/Portfolio/blob/master/Certificates/CertificateOfCompletion_Machine%20Learning%20and%20AI%20Foundations%20Predictive%20Modeling%20Strategy%20at%20Scale.pdf)
+- [A day in the Life of a Data Scientist (Apr 2021)](https://github.com/arlearn-abitha/Portfolio/blob/master/Certificates/CertificateOfCompletion_A%20Day%20In%20The%20Life%20of%20a%20Data%20Scientist.pdf)
 - [SQL for Data Science (Feb -2021)](https://github.com/arlearn-abitha/Portfolio/blob/master/Certificates/Coursera%20FK648EZDWFLU.pdf)
 - [Using Python to Access Web Data(Feb - 2021)](https://github.com/arlearn-abitha/Portfolio/blob/master/Certificates/Coursera%20X4WLRTQMUYY2.pdf)
 - [Python Data Structures (Jan 2021)](https://github.com/arlearn-abitha/Portfolio/blob/master/Certificates/Coursera%20HJ5Q2FHR3BDY.pdf)
