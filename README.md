@@ -13,7 +13,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/Used%20car%20price%20prediction%20-%20krish.png"> **[Used Cars Price Prediction - India](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/End%20to%20end%20data%20science%20project%20-%20Used%20car%20price%20prediction)**
 
-This project is an end to end data science project. The data used is from kaggle dataset of cardekho. In this project, the data is cleaned, preprocessed and visualized. Random Forest regression model is used to train the model. Then it is deployed using Flask. 
+This project is an end to end data science project. The data used is from kaggle dataset of cardekho. In this project, the data is cleaned, preprocessed and visualized. Random Forest regression model is used to train the model. Then it is deployed using Flask. The following insights were obtained while doing this project.
+1. In Chennai, most of the cars that are on the portal have been driven more kilometers. 
+2. Second place is shared by Jaipur, Hyderabad and Pune with respect to number of kms driven. 
+3. More the number of Kilometers a car travels, it's resale value reduces gradually. 
+4. It is seen that first owners of the car have driven more number of kms compared to second, third and fourth & Above owners.
+5. Less the number of Kilometers a car travelled, we can keep more margin while selling it and can increase more revenue. 
+6. Also, if a car is more than 10 yrs old, then we can keep high margin to assure them that their vehicle gets sold.
 
 #
 
@@ -52,7 +58,12 @@ COVID-19 notifier: This app fetches the covid cases data from heroku API, and th
 
 <img align="left" width="250" height="150" src="https://github.com/arlearn-abitha/Portfolio/blob/master/Images/stroke_predict.png"> **[Stroke Prediction Project](https://github.com/arlearn-abitha/Data-Science-Projects/tree/main/Stroke%20Prediction%20Project)**
  
-In this project, after doing data analysis, I got the following inferences. Stroke is occuring in people who are 30+ years old. Those who have avg_glucose_level less than 120 have more chance of getting a stroke. Those who have avg_glucose_level more than 150 have high chance of getting a stroke. Following that, I have used Decision Tree Classifier to predict stroke. The obtained score of prediction is 0.90215
+In this project, after doing data analysis, I got the following inferences. 
+1. Stroke is occuring in people who are 30+ years old. 
+2. Those who have avg_glucose_level less than 120 have more chance of getting a stroke. 
+3. Those who have avg_glucose_level more than 150 have high chance of getting a stroke. 
+4. Following that, I have used Decision Tree Classifier to predict stroke. 
+5. The obtained score of prediction is 0.90215
 
 #
 
